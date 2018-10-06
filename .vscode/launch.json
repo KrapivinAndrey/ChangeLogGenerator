@@ -9,7 +9,7 @@
             "type": "oscript",
             "request": "launch",
             "program": "${file}",
-            "args": [],
+            "args": ["84c653188fe77482cbee3a9c6b443adf426ba51d", "19170ef51aa18a3e0c990a3a0cf3cb85211e54e0"],
             "cwd": "${workspaceRoot}",
             "runtimeExecutable": null,
             "debugPort": 2801,

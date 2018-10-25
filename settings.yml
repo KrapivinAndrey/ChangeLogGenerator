@@ -1,5 +1,5 @@
 break: "# Changelog"
-outputfile: "CHANGELOG.md"
+filename: "CHANGELOG.md"
 massage_groups:
   Добавлено:
     - Добавлено

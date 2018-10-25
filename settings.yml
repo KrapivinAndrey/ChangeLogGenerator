@@ -1,0 +1,29 @@
+break: "# Changelog"
+outputfile: "CHANGELOG.md"
+massage_groups:
+  Добавлено:
+    - Добавлено
+    - Добавил
+    - Add
+  Изменено:
+    - Изменено
+    - Изменил
+    - Change
+  Устарело:
+    - Устарело
+    - Delete
+    - Deprecated
+  Удалено:
+    - Удалено
+    - Удалил
+    - Remove
+  Исправлено:
+    - Исправлено
+    - Баг
+    - Фикс
+    - Bug
+    - Fix
+  Безопасность:
+    - Безопасность
+    - Security
+
